@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prmakk&label=Profile%20views&color=0e75b6&style=flat" alt="prmakk" /> </p>
 
-- 🔭 I’m currently working on [Minecraft End Portal Finder](https://github.com/prmakk/minecraft_end_finder)
+- 🔭 I’m currently working on https://github.com/prmakk/windows10
 
 - 🌱 I’m currently learning **JavaScript**
 
