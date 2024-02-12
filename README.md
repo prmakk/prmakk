@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vlad</h1>
-<h3 align="center">Trying to be front-end developer</h3>
+<h3 align="center">Making fun things that live in the Internet</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prmakk&label=Profile%20views&color=0e75b6&style=flat" alt="prmakk" /> </p>
 
-- 🔭 I’m currently working on https://github.com/prmakk/windows10
+- 🔭 I’m currently working on https://github.com/prmakk/my_portfolio
 
 - 🌱 I’m currently learning **JavaScript**
 
