@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prmakk&label=Profile%20views&color=0e75b6&style=flat" alt="prmakk" /> </p>
 
-- 🔭 I’m currently working on https://github.com/prmakk/my_portfolio
+- 🔭 I’m currently working on https://github.com/prmakk/netflix_diploma
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **ReactTS, Zustand, ExpressJS, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prmakk/](https://github.com/prmakk/)
 
 - 📫 How to reach me **priymakvlad420@gmail.com**
-
-- ⚡ Fun fact **I have photo with wine at 1 y.o.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
