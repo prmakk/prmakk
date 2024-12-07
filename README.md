@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on https://github.com/prmakk/netflix_diploma
 
-- 🌱 I’m currently learning **ReactTS, Zustand, ExpressJS, MongoDB and trying Next**
+- 🌱 I’m currently learning **ReactTS, Zustand, ExpressJS, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prmakk/](https://github.com/prmakk/)
 
