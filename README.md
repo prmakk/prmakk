@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prmakk&label=Profile%20views&color=0e75b6&style=flat" alt="prmakk" /> </p>
 
-- 🔭 I’m currently working on https://github.com/prmakk/netflix_diploma
+- 🔭 I’m currently working on the second version of my portfolio
 
 - 🌱 I’m currently learning **ReactTS, Zustand, ExpressJS, MongoDB**
 
