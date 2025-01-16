@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactTS, Zustand, ExpressJS, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/prmakk/](https://github.com/prmakk/)
+- 👨‍💻 All of my projects are available at [https://github.com/prmakk?tab=repositories](https://github.com/prmakk?tab=repositories)
 
 - 📫 How to reach me https://t.me/prmakk
 
