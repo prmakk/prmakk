@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prmakk&label=Profile%20views&color=0e75b6&style=flat" alt="prmakk" /> </p>
 
-- 🔭 I’m currently working on the second version of my portfolio
+- 🔭 I’m currently learning new technologies
 
-- 🌱 I’m currently learning **ReactTS, Zustand, ExpressJS, MongoDB**
+- 🌱 I’m currently learning **ReactTS, Zustand, NestJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prmakk?tab=repositories](https://github.com/prmakk?tab=repositories)
 
