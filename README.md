@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prmakk&label=Profile%20views&color=0e75b6&style=flat" alt="prmakk" /> </p>
 
-- 🔭 I’m currently learning new technologies
+- 🔭 I’m currently learning new technologies and want to build something cool on Web3
 
 - 🌱 I’m currently learning **ReactTS, Zustand, NestJS**
 
